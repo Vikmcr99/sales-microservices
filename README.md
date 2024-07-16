@@ -1,24 +1,22 @@
 Projeto: Curso Udemy - Comunicação entre Microsserviços
 
 Tecnologias
-Java 17
-Spring Boot 
-Javascript 
-Node.js 
-ES6 Modules
-Express.js
-MongoDB (Container e Cloud MongoDB)
-API REST
-PostgreSQL (Container)
-RabbitMQ (Container e CloudAMQP)
-Docker
-docker-compose
-JWT
-Spring Cloud OpenFeign
+Java 17 |
+Spring Boot |
+Javascript |
+Node.js |
+Express.js |
+MongoDB (Container e Cloud MongoDB) |
+API REST |
+PostgreSQL (Container) |
+RabbitMQ (Container e CloudAMQP) |
+Docker |
+docker-compose |
+JWT |
+Spring Cloud OpenFeign |
 Axios
 
-Arquitetura Proposta
-No curso, desenvolvi a seguinte aquitetura:
+Arquitetura Proposta:
 
 3 APIs:
 
